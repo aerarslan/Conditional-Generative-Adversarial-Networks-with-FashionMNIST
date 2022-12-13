@@ -1,6 +1,8 @@
 # Conditional Generative Adversarial Networks with FashionMNIST
 The repository contains a report file(report.pdf) that includes every detail about the project.
 
+## [See Report](https://github.com/aerarslan/Conditional-Generative-Adversarial-Networks-with-FashionMNIST/blob/master/report.pdf)
+
 ### Outputs from 2 different models
 * Small model
 
